@@ -1,5 +1,7 @@
 # BUUCTF_Agent
-![image](https://github.com/MuWinds/BUUCTF_Agent/blob/main/1.png)
+
+## 时至今日，各路 Coding Agent 配合现在强 Agent 能力模型的解题能力已经很强了，不再需要专门的 CTF Agent 了，过往遇事不决搓个工作流挂个 Agent 的年代已经过去
+## 欢迎各位看看我的 Github，看看其他的代码仓库，后会有期！
 
 [![image](https://github.com/MuWinds/BUUCTF_Agent/blob/main/tch_logo.png)](https://zc.tencent.com/competition/competitionHackathon?code=cha004)
 ## 背景
